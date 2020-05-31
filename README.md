@@ -10,3 +10,6 @@
 >Connect scl To D1;
 
 >Connect sda to D3;
+
+# Model Generation Code:
+> https://github.com/Jhilam2014/LSTM-model-Gyroscope-sensor-data-analysis
